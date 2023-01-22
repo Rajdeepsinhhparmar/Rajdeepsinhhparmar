@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as QA automation engineer
 - 🌱 I’m currently learning web automation, appium automation, multiple QA tools automation
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeepsinhhparmar&layout=compact)](https://github.com/rajdeepsinhhparmar/github-readme-stats)
 
 ![Rajdeepsinh GitHub stats](https://github-readme-stats.vercel.app/api?username=rajdeepsinhhparmar&show_icons=true&theme=radical)
