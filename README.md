@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Rajdeepsinhhparmar/Rajdeepsinhhparmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋 My name is Rajdeepsinh Parmar
+### Hi 👋 My name is Rajdeepsinh Parmar
 
 - 🔭 I’m currently working as QA automation engineer
 - 🌱 I’m currently learning web automation, appium automation, multiple QA tools automation
