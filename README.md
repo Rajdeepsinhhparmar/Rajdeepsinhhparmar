@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Hi 👋 My name is Rajdeepsinh Parmar
 
-🔭 I’m currently working as QA automation engineer
-🌱 I’m currently learning web automation, appium automation, multiple QA tools automation
+- 🔭 I’m currently working as QA automation engineer
+- 🌱 I’m currently learning web automation, appium automation, multiple QA tools automation
