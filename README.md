@@ -1,24 +1,31 @@
+# Hi there, I'm Rajdeepsinh Parmar 👋
 
+### 🚀 About Me
+I am a **SDET Engineer** passionate about building scalable web applications and open-source tools. Currently focusing on mastering **[Skill/Tech, e.g., Cloud Architecture]**.
 
-<!--
-**Rajdeepsinhhparmar/Rajdeepsinhhparmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **[Tech Stack]**
+- 💬 Ask me about **[Your Expertise]**
+- 📫 How to reach me: **[Your Email]** or [LinkedIn](your-link)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi 👋 My name is Rajdeepsinh Parmar
+### 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working as QA automation engineer
-- 🌱 I’m currently learning web automation, appium automation, multiple QA tools automation
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | `JavaScript`, `TypeScript`, `React`, `Next.js`, `HTML5/CSS3` |
+| **Backend** | `Node.js`, `Python`, `FastAPI`, `PostgreSQL`, `MongoDB` |
+| **DevOps & Tools** | `Docker`, `AWS`, `Git`, `GitHub Actions`, `Linux` |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeepsinhhparmar&layout=compact)](https://github.com/rajdeepsinhhparmar/github-readme-stats)
+---
 
-![Rajdeepsinh GitHub stats](https://github-readme-stats.vercel.app/api?username=rajdeepsinhhparmar&show_icons=true&theme=radical)
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
+
+---
+
+### ⚡ Fun Fact
+When I'm not coding, I'm usually [Your hobby, e.g., playing chess, hiking, listening to rock music].
